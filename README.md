@@ -1,8 +1,5 @@
 # Opportunity Management
 
-## Context
-Opportunity Management
-
 ## User research 2021
 
 ## User Research 2020

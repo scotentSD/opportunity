@@ -5,7 +5,11 @@
 ## User research 2021
 
 ## User Research 2020
-
+- [EOI 1 Findings]()
+- [EOI 2 Findings]()
+- [EOI 3 Findings]()
+- [EOI 4 Findings]()
+- [EOI 5 Findings]()
 
 ## Files
 - [Szzz](overview/)

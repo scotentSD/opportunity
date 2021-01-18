@@ -13,5 +13,4 @@ Opportunity Management
 - [Summary of the research](yyy/)
 - [High level user needs](zzz/)
 
-
 <div>Last updated: {{site.time | date_to_string}}</div>

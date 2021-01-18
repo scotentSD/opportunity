@@ -2,7 +2,7 @@ theme: jekyll-theme-slate
 title: Opportunity Management
 description:  
 excerpt_separator: "<!--more-->"
-baseurl: "/customer-account/"
+baseurl: "/opportunity/"
 permalink: /:title/
 # The release of Jekyll Now that you're using
 version: v1.2.0

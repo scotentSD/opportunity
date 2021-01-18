@@ -1,0 +1,10 @@
+theme: jekyll-theme-slate
+title: Customer Portal Account
+description: An enabler for other services
+excerpt_separator: "<!--more-->"
+baseurl: "/customer-account/"
+permalink: /:title/
+# The release of Jekyll Now that you're using
+version: v1.2.0
+plugins:
+  - jekyll-relative-links

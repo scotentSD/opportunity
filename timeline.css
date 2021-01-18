@@ -1,0 +1,193 @@
+/********************************* This file is where we add changes to all project timelines *************************/
+/* Border Box */
+.fleeb{
+  box-sizing: border-box;
+}
+
+#container_wide {
+margin-left: 5em;
+margin-right: 5em;
+width: 98%;
+}
+
+
+/* Generic stuff */
+#timeline {
+  padding: 5px 0;
+  /* background: #f7f7f7; */
+  border-top: 0px solid rgba(191, 191, 191, 0.4);
+  border-bottom: 0px solid rgba(191, 191, 191, 0.4);
+  font-family: Roboto;
+}
+#timeline h1 {
+  text-align: center;
+  font-size: 36px; /* was 3em  change to be consistent with rest of the pages */
+  font-weight: 700; /* was 200 changed for consistency */
+  margin-bottom: 10px;
+}
+@media (max-width: 480px) {
+#timeline h1 {
+      font-size: 26px; /* on small screen */
+      }
+  }
+
+#timeline h2 {
+  margin-top: 0.4em;
+  margin-bottom: 0.1px;
+  line-height: 1.2em;
+}
+#timeline h3 {
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+  color: black;
+}
+
+/* for the key */
+#timeline  .colour_key {
+    border: 1px solid #333;
+    padding-bottom: 1em;
+    max-width: 94%;   /* same as timeline-card */
+    line-height: 0.8em;
+    background-color: #fff;
+    margin: auto; /* to center the block */
+    margin-bottom: 0.8em; /* to still leave some space under the block */
+   /*  z-index: 2;  don't think it's needed */
+   /*  margin-left: 0.2em; should be auto so it's centered */
+   /* font-size: 0.8em;  removed, was hard to read */
+
+}
+
+#timeline .colour_key_heading {
+    text-align: left;
+    font-weight: bold;
+}
+#timeline  .colour_key p {
+    margin-bottom: 0em;
+    padding-left: 1.5em;
+}
+
+/* UL that hosts teh Post Cards */
+.timeline_ul{
+ margin-left: 0px;
+ padding-left: 0px;
+}
+
+/* Timeline POST CARD stuff */
+.timeline_card {
+  position: relative;
+  display: block;
+  margin-left: 0.2em;
+  margin: auto; /* to center the block */
+  margin-bottom: 0.4em; /* leave some sapce under the block */
+  max-width: 94%;
+ /* z-index: 2; don't think it's needed */ 
+  padding-bottom: 0.8em;
+}
+.timeline_head {  padding-left: 0.2em;
+  -webkit-box-shadow: 0px -1px 5px 1px rgba(0,0,0,0.43);
+  -moz-box-shadow: 0px -1px 5px 1px rgba(0,0,0,0.43);
+  box-shadow: 0px -1px 5px 1px rgba(0,0,0,0.43);
+  padding-left: 1.0em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  /*text-transform: uppercase; // not good for Dyslexic users */
+}
+.timeline_body {
+  background: #fff;
+  border-top: 0px;
+  padding: 15px;
+  margin-bottom: 0.0em;
+  text-align: left;
+  margin: 0;
+  padding-left: 0.8em;
+  padding-right: 0.8em;
+  padding-top:0.4em;
+  padding-bottom: 0.1em;
+  -webkit-box-shadow: 0px 1px 5px 1px rgba(0,0,0,0.43);
+  -moz-box-shadow: 0px 1px 5px 1px rgba(0,0,0,0.43);
+  box-shadow: 0px 1px 5px 1px rgba(0,0,0,0.43);
+
+}
+.timeline_body p {
+  margin-top: 0.2em;
+}
+
+
+
+/* Set the colours for the post .type_ers */
+#timeline .lab { background-color: #9212ad;} /* purple lab research - was #ce43eb, but flagged by a11y, now AAA */
+#timeline .partner { background-color: #824a00;} /* brown for partners - was #935300, but flagged by a11y, now AAA */
+#timeline .online { background-color: #0f55aa;} /* blue online research - was #4d92eb but flagged by a11y, now AAA */
+#timeline .other { background-color: #3ee9d1;} /* greenish blue - other events */
+#timeline .a11y { background-color: #f5c44b;} /* yellow for a11y */
+
+#timeline .highlighted { background-color: #f51818;} /* RED for highlighted reserach rounds. Created because AdvantageLab covered 6 months of research in one single report  */
+
+/* Set the TYPE text for the post .type_ers  */
+
+
+
+.type_lab::after {  content : "Lab testing";}
+.type_a11y::after {  content : "Accessibility";}
+.type_partner::after {  content : "Partner co-creation and co-design";}
+.type_online::after {  content : "Online research and testing";}
+/* .type_other::after {  content : "EVENTS, F2F AND OTHER ACTIVITIES";} */
+.type_other::after {  content : "Other activities";}
+.type_highlighted::after {  content : "Highlighted research summary";}
+
+/*  Set the text collour for post TYPE */
+.type_lab { color: white; font-weight: 900; font-size: 1.1em; padding-bottom: 0.0em;  padding-top:-0.2em;}
+.type_partner { color: white; font-weight: 900; font-size: 1.1em; padding-bottom: 0.0em;  padding-top:-0.2em;}
+.type_online { color: white; font-weight: 900; font-size: 1.1em; padding-bottom: 0.0em;  padding-top:-0.4em;}
+.type_other { color: black; font-weight: 900; font-size: 1.1em; padding-bottom: 0.0em;  padding-top:-0.4em;}
+.type_a11y { color: black; font-weight: 900; font-size: 1.1em; padding-bottom: 0.0em;  padding-top:-0.4em;}
+.type_highlighted { color: white; font-weight: 900; font-size: 1.1em; padding-bottom: 0.0em;  padding-top:-0.4em;}
+
+/*  Set the text collour for post TITLE */
+.title_lab { color: white; font-weight: 900; font-size: 1.4em; padding-bottom: 0.0em;  padding-top:-0.2em;}
+.title_partner { color: white; font-weight: 900; font-size: 1.4em; padding-bottom: 0.0em;  padding-top:-0.2em;}
+.title_online { color: white; font-weight: 900; font-size: 1.4em; padding-bottom: 0.0em;  padding-top:-0.4em;}
+.title_other { color: black; font-weight: 900; font-size: 1.4em; padding-bottom: 0.0em;  padding-top:-0.4em;}
+.title_a11y { color: black; font-weight: 900; font-size: 1.4em; padding-bottom: 0.0em;  padding-top:-0.4em;}
+.title_highlighted { color: white; font-weight: 900; font-size: 1.4em; padding-bottom: 0.0em;  padding-top:-0.4em;}
+
+/*  Set the text colour for the post DATE */
+.date_lab { color: white; font-weight: 900; font-size: 0.9em; padding-top: 0.1em;   clear: both;}
+.date_partner { color: white; font-weight: 900; font-size: 0.9em; padding-top: 0.1em;   clear: both;}
+.date_online { color: white; font-weight: 900; font-size: 0.9em; padding-top: 0.1em;   clear: both;}
+.date_other { color: black; font-weight: 900; font-size: 0.9em; padding-top: 0.1em;   clear: both;}
+.date_a11y { color: black;  font-weight: 900; font-size: 0.9em; padding-top: 0.1em;   clear: both;}
+
+.date_highlighted { color: white;  font-weight: 900; font-size: 0.9em; padding-top: 0.1em;   clear: both;}
+
+/* timline card body */
+#timeline .timeline-card .timeline_body p {
+  /* removed because it made paragraph smaller than bullet list was:  font-size: 14px; */
+  line-height: 18px;
+  margin-bottom: 15px;
+}
+#timeline .timeline-card .timeline_body img {
+  display: block;
+  width: 100%;
+}
+
+
+.issue {
+    color: #d4351c;  /* was red and being flagged for poor contrast with wave plugin - the new value is the GDS error red */
+    font-weight: bold;
+}
+
+.initials {
+    color: grey;
+    font-weight: bold;
+    font-size: 0.3em;
+    line-height: 0.3em;
+    margin-top: 0em;
+    padding-top: 0em;
+
+}
+
+#main_content {
+  padding-top: 10px; /* added because it look like a lot of space on the timeline above the h1 */ 
+}
+

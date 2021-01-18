@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
-title: Customer Portal Account
-description: An enabler for other services
+title: Opportunity Management
+description:  
 excerpt_separator: "<!--more-->"
 baseurl: "/customer-account/"
 permalink: /:title/

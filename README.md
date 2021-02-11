@@ -10,9 +10,9 @@
 
 
 ## User Research 2020
-- [EOI 3 Findings](https://scotensd.github.io/opportunity/files/)
-- [EOI 2 Findings](https://scotensd.github.io/opportunity/files/)
-- [EOI 1 Findings](https://scotensd.github.io/opportunity/files/EOI_InitialTesting_V1_Nov30_2020.pptx)
+- [EOI 3 Findings](https://scotentsd.github.io/opportunity/files/)
+- [EOI 2 Findings](https://scotentsd.github.io/opportunity/files/)
+- [EOI 1 Findings](https://scotentsd.github.io/opportunity/files/EOI_InitialTesting_V1_Nov30_2020.pptx)
 
 ## Files
 - [Szzz](overview/)

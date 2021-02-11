@@ -5,15 +5,14 @@
 
 ## User research 2021
 
-- [EOI 4 Findings]()
-- [EOI 5 Findings]()
+- [EOI 4 Findings](https://scotensd.github.io/opportunity/files/)
+- [EOI 5 Findings](https://scotensd.github.io/opportunity/files/)
 
 
 ## User Research 2020
-- [EOI 1 Findings]()
-- [EOI 2 Findings]()
-- [EOI 3 Findings]()
-
+- [EOI 3 Findings](https://scotensd.github.io/opportunity/files/)
+- [EOI 2 Findings](https://scotensd.github.io/opportunity/files/)
+- [EOI 1 Findings](https://scotensd.github.io/opportunity/files/EOI_InitialTesting_V1_Nov30_2020.pptx)
 
 ## Files
 - [Szzz](overview/)

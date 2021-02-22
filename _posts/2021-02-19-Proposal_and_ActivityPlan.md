@@ -1,0 +1,29 @@
+---
+layout: post
+title: Proposition & Activity Plan testing
+type: online
+phase: Alpha
+initials: MK
+display_date: Feb 19 2021
+return_url: "https://scotentsd.github.io/opportunity/timeline/"
+---
+### Phase: Alpha
+
+### Audience and tool used
+- Customers via Video Call & Desktop Sharing
+
+### Focus
+- Have customers review updated Prototype of OM Proposition and Activity plan
+
+### What we discovered
+#### [Proposition](https://cd2qdj.axshare.com/#id=8pdqr7&p=general_project_opp_support){:target="_blank" rel="noopener"}
+- The Proposition was quite well received
+- Some slight tweaks are required to the reading order of the content
+
+#### [Activity Plan](https://scotentsd.github.io/testing/Activity.pdf){:target="_blank" rel="noopener"}
+- The activity plan made sense
+- Focusing on "Issues" rather than "Sectors" was well received
+- Having "Top **3** Priorities" sounded a bit "Box Ticky" and should just be "Top Priorities"
+
+### Supporting documents
+- [Proposition & Activity Plan testing Jan 21 2021](#)

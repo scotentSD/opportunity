@@ -1,7 +1,7 @@
 # Opportunity Management
 
-- [Research Timeline](timeline/)
-- [Research Timeline - Summary](timelinelight3/)
+- [Timeline of Research](timeline/)
+- [Timeline of Research - Summary](timeline_summary/)
 
 ## User research 2021
 - [Proposition & Activity planning Jan 21 2021](https://scotensd.github.io/opportunity/files/2021-01-21 OM Proposition_and_ActivityPlan.pdf)

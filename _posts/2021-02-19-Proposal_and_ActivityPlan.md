@@ -4,26 +4,24 @@ title: Proposition & Activity Plan testing
 type: online
 phase: Alpha
 initials: MK
-display_date: Feb 19 2021
+display_date: Feb 18 2021
 return_url: "https://scotentsd.github.io/opportunity/timeline/"
 ---
 ### Phase: Alpha
 
 ### Audience and tool used
-- Customers via Video Call & Desktop Sharing
+- 6 potential customers, all SMEs
+- Using video calls (Teams)
 
 ### Focus
-- Have customers review updated Prototype of OM Proposition and Activity plan
-
+- We tested the latest [service proposal](https://r5ql7s.axshare.com/){:target="_blank" rel="noopener"} and we asked them to act as a company that wanted to reduce heating costs and lower carbon emissions, and protect jobs in the process of reducing costs
+_
 ### What we discovered
-#### [Proposition](https://cd2qdj.axshare.com/#id=8pdqr7&p=general_project_opp_support){:target="_blank" rel="noopener"}
-- The Proposition was quite well received
-- Some slight tweaks are required to the reading order of the content
-
-#### [Activity Plan](https://scotentsd.github.io/testing/Activity.pdf){:target="_blank" rel="noopener"}
-- The activity plan made sense
-- Focusing on "Issues" rather than "Sectors" was well received
-- Having "Top **3** Priorities" sounded a bit "Box Ticky" and should just be "Top Priorities"
+- The content worked well
+- Customers wanted a list of required info in order to prepare themselves
+- Customers would appreciate an example project description to give them some idea how to structure theirs
+- Customers are uncertain about what our help will cost
+- The language presupposes a fully formed and costed Project.Many are at an earlier stage and may still be thinking in terms of problems and challenges
 
 ### Supporting documents
-- [Proposition & Activity Plan testing Jan 21 2021](#)
+- [BSA: Opportunity Management Proposal Wireframe Testing](2021_02_18_F2F_OM_Proposition.pdf)

@@ -4,7 +4,7 @@ title: Proposition & Activity Plan testing
 type: online
 phase: Alpha
 initials: MK
-display_date: Jan 21 2021
+display_date: Feb 19 2021
 return_url: "https://scotentsd.github.io/opportunity/timeline/"
 ---
 ### Phase: Alpha
@@ -13,7 +13,7 @@ return_url: "https://scotentsd.github.io/opportunity/timeline/"
 - Customers via Video Call & Desktop Sharing
 
 ### Focus
-- Have customers review Prototype of OM Proposition and Activity plan
+- Have customers review updated Prototype of OM Proposition and Activity plan
 
 ### What we discovered
 #### [Proposition](https://cd2qdj.axshare.com/#id=8pdqr7&p=general_project_opp_support){:target="_blank" rel="noopener"}

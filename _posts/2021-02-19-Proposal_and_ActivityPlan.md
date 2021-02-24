@@ -24,4 +24,4 @@ return_url: "https://scotentsd.github.io/opportunity/timeline/"
 - The language presupposes a fully formed and costed Project. Many are at an earlier stage and may still be thinking in terms of problems and challenges
 
 ### Supporting documents
-- [BSA: Opportunity Management Proposal Wireframe Testing](files/opportunity/2021_02_18_F2F_OM_Proposition.pdf)
+- [BSA: Opportunity Management Proposal Wireframe Testing](/opportunity/files/2021_02_18_F2F_OM_Proposition.pdf)

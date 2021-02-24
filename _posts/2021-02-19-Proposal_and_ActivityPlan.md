@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Proposition & Activity Plan testing
+title: Opportunity Management Proposal Wireframe Testing
 type: online
 phase: Alpha
 initials: MK
@@ -21,7 +21,7 @@ _
 - Customers wanted a list of required info in order to prepare themselves
 - Customers would appreciate an example project description to give them some idea how to structure theirs
 - Customers are uncertain about what our help will cost
-- The language presupposes a fully formed and costed Project.Many are at an earlier stage and may still be thinking in terms of problems and challenges
+- The language presupposes a fully formed and costed Project. Many are at an earlier stage and may still be thinking in terms of problems and challenges
 
 ### Supporting documents
 - [BSA: Opportunity Management Proposal Wireframe Testing](2021_02_18_F2F_OM_Proposition.pdf)

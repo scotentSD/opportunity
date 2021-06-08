@@ -13,6 +13,8 @@
 - [EOI 1 Findings](https://scotentsd.github.io/opportunity/files/EOI_InitialTesting_V1_Nov30_2020.pdf)
 
 ## Files
-- [Szzz](overview/)
+- [Service blueprint - digital v0.3](/opportunity/files/Opportunity management - Service blueprint v0.3.pdf) 
+)
+- [Service blueprint - transition v1](/opportunity/files/Opportunity management - Service blueprint - transition v0.1.pdf)
 
 <div>Last updated: {{site.time | date_to_string}}</div>

@@ -35,7 +35,7 @@ return_url: "https://scotentsd.github.io/opportunity/timeline/"
 
 | Quote
 | ---
-| ""It's more about what they can do for us rather than the other way around."
+| "It's more about what they can do for us rather than the other way around."
 | "It's hard to get customers to sign it off because there's no money involved."
 | "Clients are reluctant to sign off on economic measures because it's of no benefit to them."
 | "If we're dealing with someone and it's a one-off I can see the benefit – but when will we be doing one-offs?"

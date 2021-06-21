@@ -16,7 +16,7 @@ return_url: "https://scotentsd.github.io/opportunity/timeline/"
 - The Word document version of the Activity Plan that was used for the OM pilot project
 
 ## Research questions
--What was their experience of using the activity plan?
+- What was their experience of using the activity plan?
 - What worked well?
 - What didn't work so well?
 - Was there anything missing that they expected to be there?
@@ -26,11 +26,10 @@ return_url: "https://scotentsd.github.io/opportunity/timeline/"
 ## What we discovered
 - Companies aren't that interested in the activity plan
   - "I don't care what's on a piece of paper."
-- "The activity plan didn't really register."
+  - "The activity plan didn't really register."
   - "The document itself – I never really opened it."
 - The real value for companies is in the conversations they have with us
  - It all comes down to the people
-  - "It's all about the calibre of the person you're speaking to."
 
 ## 🎧 Quotes
 

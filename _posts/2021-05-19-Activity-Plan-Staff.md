@@ -42,4 +42,4 @@ return_url: "https://scotentsd.github.io/opportunity/timeline/"
 | "The current process doesn't take our history with the company into account."
 
 ## Supporting documents
-- [Opportunity Management Activity Plan - Staff Testing](/opportunity/files/2021_05_19_OM_Activity_Plan_Staff.pptx)
+- [Opportunity Management Activity Plan - Staff Testing (PPTX)](/opportunity/files/2021_05_19_OM_Activity_Plan_Staff.pptx)

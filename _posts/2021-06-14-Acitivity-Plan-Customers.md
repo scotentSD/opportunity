@@ -39,7 +39,7 @@ return_url: "https://scotentsd.github.io/opportunity/timeline/"
 | "It was as if we were interacting with a group of colleagues as a team."
 | "Your first point of contact has to be really good – if they aren't then opportunities are missed."
 | "You have lots of experts but WE need to do the work. This can create more work than it solves."
-| "If you were not used to SE form filling then it might be tricky. We know the right buzzwords.
+| "If you were not used to SE form filling then it might be tricky. We know the right buzzwords."
 
 ## Supporting documents
 - [Opportunity Management Activity Plan - Customer Research](/opportunity/files/2021-06-14-OM-Activity-Plan-Customers.pdf)

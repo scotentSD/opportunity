@@ -13,7 +13,7 @@
 - [EOI 1 Findings](https://scotentsd.github.io/opportunity/files/EOI_InitialTesting_V1_Nov30_2020.pdf)
 
 ## Files
-- [High-level user needs](/opportunity/files/Opportunity management - High level user needs.xlsx)
+- [High-level user needs](/opportunity/files/Opportunity_management _OM_user_needs.pdf)
 - [Service blueprint - digital v0.3](/opportunity/files/Opportunity management - Service blueprint v0.3.pdf)
 - [Service blueprint - transition v0.2](/opportunity/files/Opportunity management - Service blueprint - transition v0.2.pdf)
 - [Opportunity management tube map v2](/opportunity/files/Opportunity management - Opportunity management tube map V.2.pdf) 

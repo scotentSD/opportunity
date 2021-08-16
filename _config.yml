@@ -11,7 +11,7 @@ plugins:
   
 
 prose:
-  rooturl: '/'
+  rooturl: 'mktest'
   siteurl: 'http://scotentSD.github.io/opportunity'
   relativeLinks: 'http://scotentSD.github.io/opportunity/links.jsonp'
   media: 'media'

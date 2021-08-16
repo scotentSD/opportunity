@@ -16,8 +16,8 @@ prose:
         value: ""
     - name: "type"
       field:
-       	element: "select"
-       	label: "Choose_Type"
+        element: "select"
+        label: "Select Type"
         placeholder: "Choose Type"
         options:
           - name: " lab "

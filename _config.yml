@@ -17,7 +17,7 @@ prose:
     - name: "type"
       field:
        	element: "select"
-       	label: "Select Type"
+       	label: "Select_Type"
         placeholder: "Choose Type"
         options:
           - name: " lab "
@@ -33,7 +33,7 @@ prose:
     - name: "phase"
       field:
         element: "select"
-        label: "Select phase"
+        label: "Select_phase"
        	 placeholder: "Choose phase"
         options:
          - name: "discovery"
@@ -52,7 +52,7 @@ prose:
     - name: "display_date"
       field:
         element: "text"
-        label: "Display Date"
+        label: "Display_Date"
         value: ""
     - name: "return_url"
       field:

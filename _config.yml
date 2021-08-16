@@ -11,11 +11,28 @@ plugins:
   
 
 prose:
-  rooturl: ''
+  rooturl: '/'
   siteurl: 'http://scotentSD.github.io/opportunity'
   relativeLinks: 'http://scotentSD.github.io/opportunity/links.jsonp'
   media: 'media'
   metadata:
+    mktest:
+      - name: "tags"
+        field:
+          element: "select"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Apples"
+              value: "apples"
+            - name: "Bananas"
+              value: "bananas"
+            - name: "Pears"
+              value: "pears"
+            - name: "Mangos"
+              value: "mangos"
+            - name: "Oranges"
+              value: "oranges"
    _posts:
     - name: "layout"
       field:
@@ -70,21 +87,5 @@ prose:
       field:
         element: "hidden"
         value: "https://scotentsd.github.io/sep/timeline/"
-     mktest:
-      - name: "tags"
-        field:
-          element: "select"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-            - name: "Pears"
-              value: "pears"
-            - name: "Mangos"
-              value: "mangos"
-            - name: "Oranges"
-              value: "oranges"
+
  

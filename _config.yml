@@ -34,7 +34,7 @@ prose:
       field:
         element: "select"
         label: "Choose_phase"
-       	 placeholder: "Choose phase"
+       	placeholder: "Choose phase"
         options:
          - name: "discovery"
            value: "discovery"

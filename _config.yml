@@ -26,49 +26,6 @@ metadata:
         element: "text"
         label: "Title"
         value: ""
-    - name: "type"
-      field:
-       	element: "select"
-       	label: "Select Type"
-        placeholder: "Choose Type"
-        options:
-          - name: " lab "
-            value: "lab"
-          - name: " online "
-            value: "online"
-          - name: " a11y "
-            value: "a11y"
-          - name: " other "
-            value: "other"
-          - name: " partner"
-            value: "partner"
-    - name: "phase"
-      field:
-        element: "select"
-        label: "Select phase"
-       	 placeholder: "Choose phase"
-        options:
-         - name: " discovery "
-           value: "discovery"
-         - name: " alpha "
-           value: "alpha"
-         - name: " beta "
-           value: "beta"
-         - name: " live "
-           value: "live"
-    - name: "initials"
-      field:
-        element: "text"
-        label: "Initials"
-        value: ""
-    - name: "display_date"
-      field:
-        element: "text"
-        label: "Display Date"
-        value: ""
-    - name: "return_url"
-      field:
-        element: "hidden"
-        value: "https://scotentsd.github.io/sep/timeline/"
+
 
  

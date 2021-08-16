@@ -36,13 +36,13 @@ prose:
         label: "Select phase"
        	 placeholder: "Choose phase"
         options:
-         - name: " discovery "
+         - name: "discovery"
            value: "discovery"
-         - name: " alpha "
+         - name: "alpha"
            value: "alpha"
-         - name: " beta "
+         - name: "beta"
            value: "beta"
-         - name: " live "
+         - name: "live"
            value: "live"
     - name: "initials"
       field:

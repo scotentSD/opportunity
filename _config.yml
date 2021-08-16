@@ -15,8 +15,8 @@ prose:
   siteurl: 'http://scotentSD.github.io/opportunity'
   relativeLinks: 'http://scotentSD.github.io/opportunity/links.jsonp'
   media: 'media'
-metadata:
-  _posts:
+  metadata:
+   _posts:
     - name: "layout"
       field:
         element: "hidden"
@@ -70,7 +70,7 @@ metadata:
       field:
         element: "hidden"
         value: "https://scotentsd.github.io/sep/timeline/"
-    mktest:
+     mktest:
       - name: "tags"
         field:
           element: "select"

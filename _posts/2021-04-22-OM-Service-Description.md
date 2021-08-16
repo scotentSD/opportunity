@@ -23,9 +23,5 @@ return_url: "https://scotentsd.github.io/opportunity/timeline/"
 - The service descriptions have specific issues and this also varies with customer industry
 - There was more reticence than last time, over using personal documents (passport, driving license, other)
 
-## Recommendations
-- Choose a name for customers that says what it does
-- Drop Opportunity Management as an external (customer-facing) name
-
 ## Supporting documents
 - [Opportunity Management service description and enquiry wireframe testing](/opportunity/files/2021-04-22-Playback-OM-ServiceDecription-and-Enquire.pdf)

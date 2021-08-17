@@ -17,7 +17,7 @@ title: Research timeline
             </a>
           </div>
           <div class="timeline_body">
-              <h2>{{ post.title}}</h2>
+              <h2>{{ post.tltitle  | default: post.title }}</h2>
           {{ post.excerpt }}
           </div>
        </li>

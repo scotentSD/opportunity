@@ -17,15 +17,12 @@ title: Research timeline
             </a>
           </div>
           <div class="timeline_body">
-            
             {% if {{ post.tltitle}} %}
               <h2>{{ post.tltitle}}</h2>
             {% elsif page.platform == "windows" %}
               <h2>{{ post.title}}</h2>
             {% endif %}
-            
-            {{ post.excerpt }}
-          
+          {{ post.excerpt }}
           </div>
        </li>
     {% endfor %}

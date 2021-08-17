@@ -1,3 +1,10 @@
+---
+return_url: 'https://scotentsd.github.io/sep/timeline/'
+layout: post
+type: lab
+phase: discovery
+published: false
+---
 ## Phase
    Discovery
 
@@ -13,8 +20,9 @@
 
 - How do people 
 
-
 ## What we discovered
+
+- We
 
 | Does the Application Journey have any major issues
 |---
@@ -46,8 +54,6 @@
 |  ccc
 
 
+[Link Text](../files/xxxxxxxxxx)
 
-[Link Text](file path and name)
 <!--more-->
-
-

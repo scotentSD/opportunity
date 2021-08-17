@@ -1,8 +1,8 @@
 prose:
   rooturl: ''
   siteurl: 'http://scotentSD.github.io/opportunity/'
-  # relativeLinks: 'http://scotentSD.github.io/opportunity/links.jsonp'
-  media: 'media'
+  relativeLinks: 'http://scotentSD.github.io/opportunity/links.jsonp'
+  media: 'files'
   metadata:
    _posts:
     - name: "layout"

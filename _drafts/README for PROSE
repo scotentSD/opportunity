@@ -1,0 +1,29 @@
+# Help
+##  How to create a new post for the timeline
+
+1. open the file **2021-template.md** in the _drafts  folder
+2. edit
+3. select all : ctrl+A , and copy Ctrl+C. This copies the contents
+4. go to the **_posts** folder and **create a new file** there
+5.  The file should automatically prefiz the date in fron of whatever name you give it **yyyy-mm-dd-name.md** (don't forget the .md!). 
+This alters the view order in teh timeline. 
+It can be changed later. paste the content of the template ctrl+V
+6. make your changes
+7. Edit the Metadata
+8. Save by commiting your file, enter your initials, and a short commit message
+
+## How to use the template
+
+a. Alter the Mmetadat as needed. 
+ **optional** add the **type_of_event** if you want it displayed added to the heading when the post is clicked on (Lab Testing, Partner co-creation and co-design, Accessibility, Online research and testing, Events, F2F and testing) or leave empty if not needed
+b. fill in the text of your post
+. any files you want to link to should be uploaded before in the folder **files**
+. to link a file, **`[name of your file to display (type of file)](../files/name-of-your-file.extenstion)`**
+
+Remember to mention what type of file it is in the text link. For example: 
+
+`[Partner Prioritisation Spreadsheet (Excel file)](../files/SEP-Partner-Prioritisation-020819-V1.xlsx)`
+
+
+## Help with the mark up
+[cheatsheet for markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

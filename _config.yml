@@ -73,7 +73,7 @@ version: v1.2.0
 plugins:
   - jekyll-relative-links
   
-collections: 
+ 
 collections:
   files_collection:
     output: true

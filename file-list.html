@@ -1,9 +1,6 @@
 
 <ul>
-{% assign atopics = site.files_collection | sort: 'order' %}
-{% for atopic in atopics %}
-  <li {% if page.url == atopic.url %} class="active"{% endif %}>
-    <a href="{{ atopic.url }}">{{ atopic.url }}</a>
-  </li>
+{% for entry in site.files_collection %}
+   {% entry.url %}
 {% endfor %}
 </ul>

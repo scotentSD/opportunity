@@ -6,7 +6,7 @@ title: File List
   <ul>
     {% for flists in site.flist %}
         <li class="timeline_card">
-        {{ flists.path }}::{{ flists.url }}
+        {{ file.path }}::{{ file.url }}
        </li>
     {% endfor %}
   </ul>

@@ -1,8 +1,6 @@
 ---
 title: File List
 ---
-
-<section id="timeline">
   <h1>File List</h1>
 
   <ul class="timeline_ul">
@@ -12,5 +10,4 @@ title: File List
        </li>
     {% endfor %}
   </ul>
-</section>
 

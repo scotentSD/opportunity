@@ -1,6 +1,6 @@
 
 <ul>
 {% for entry in site.files_collection %}
-   {% entry.url %}
+   {% entry.path %}
 {% endfor %}
 </ul>

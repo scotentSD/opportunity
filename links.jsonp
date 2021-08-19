@@ -2,8 +2,8 @@ callback([
 
   {% for files in site.static_files %}
     {
-      "text": "        {{ files.path }}::{{ files.url }}",
-      "href": "        {{ files.path }}::{{ files.url }}"
+      "text":         {{ files.path }}::{{ files.url }},
+      "href":         {{ files.path }}::{{ files.url }}
     } ,
   {% endfor %}
   

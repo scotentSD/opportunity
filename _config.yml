@@ -59,7 +59,9 @@ prose:
         element: "hidden"
         value: "https://scotentsd.github.io/sep/timeline/"
 
- 
+ collections:
+  flist:
+    output: false
 
 
 theme: jekyll-theme-slate
@@ -74,9 +76,7 @@ plugins:
   - jekyll-relative-links
   
  
-collections:
-  flist:
-    output: false
+
 
 
 

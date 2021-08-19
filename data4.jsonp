@@ -3,7 +3,8 @@
 {%- assign pages = site.static_files -%}
 
 {
-  {%- for p in pages %}
-    {{ p.path | jsonify }}: {{p.path | jsonify }}
+  {%- for p in pages -%}
+    {{ text | jsonify }}: {{p.path | jsonify }}
   {% endfor %}
 }
+

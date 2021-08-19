@@ -1,15 +1,15 @@
 callback([
 
-  {
-    "text": "OM User Needs",
-    "href": "/files/Opportunity_management _OM_user_needs.pdf/"
-  } ,
-
-
-
-  {
-    "text": "OM Names and Naming",
-    "href": "/files/2021-06-23-OM-Names_and_Naming.pdf/"
-  } 
-
+  {% for files in site.static_files %}
+    {
+      "text": "        {{ files.path }}::{{ files.url }}",
+      "href": "        {{ files.path }}::{{ files.url }}"
+    } ,
+  {% endfor %}
+  
+    {
+      "text": "Saltire logo",
+      "href": "/images/SaltireCross.png"
+    }
+  
 ])

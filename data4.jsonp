@@ -6,6 +6,7 @@ callback([
   {%- for p in pages -%}
     "text": {{p.path | jsonify }}
     "href": {{p.path | jsonify }}
+    {% unless forloop.last %},{% endunless%}
   {% endfor %}
 ])
 

@@ -4,6 +4,7 @@
 
 {
   {%- for p in pages %}
-    {{ p.path: p.path | jsonify }}
+    {{ text: p.path: | jsonify }}
+    {{ href: p.path: | jsonify }}
   {% endfor %}
 }

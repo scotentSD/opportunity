@@ -2,10 +2,10 @@
 ---
 {%- assign pages = site.static_files -%}
 
-{
+callback([
   {%- for p in pages -%}
     "text": {{p.path | jsonify }}
     "href": {{p.path | jsonify }}
   {% endfor %}
-}
+])
 

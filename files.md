@@ -5,7 +5,7 @@ title: File List
   <ul>
     {% for files in site.static_files %}
         <li class="timeline_card">
-        {{ files.path }}::{{ files.url }}
+        {{ files.path }}
        </li>
     {% endfor %}
   </ul>

@@ -3,7 +3,7 @@
  
   <head>
     {% include meta.html %}
-    <title>{% if page.tltitle  %}{{ page.tltitle }}{% endif %}</title>
+    <title>{% if page.tltitle  %}{{ page.tltitle }}{% endif %}- {{site.title}}</title>
     <link rel="stylesheet" type="text/css" media="screen" href="https://scotentsd.github.io/assets/css/style.css">
     <link rel="icon" href="https://scotentsd.github.io/images/favicon.ico">
   </head>
@@ -24,7 +24,7 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {% include breadcrumbs.html %}
-        <h1 id="post_title">{% if page.tltitle  %}{{ page.tltitle }} – {% endif %} ({% if page.title  %}{{ page.title }} – {% endif %})</h1>
+        <h1 id="post_title">{% if page.tltitle  %}{{ page.tltitle }}{% endif %}</h1>
         {{ content }}
       </section>
     </div>

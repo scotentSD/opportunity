@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opportunity Management service description and enquiry wireframe testing
+tltitle: Opportunity Management service description and enquiry wireframe testing
 type: lab
 phase: Alpha
 initials: KD

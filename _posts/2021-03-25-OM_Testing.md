@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opportunity Management new process wireframe testing (no Expression of Interest)
+tltitle: Opportunity Management new process wireframe testing (no Expression of Interest)
 type: lab
 phase: Alpha
 initials: KD

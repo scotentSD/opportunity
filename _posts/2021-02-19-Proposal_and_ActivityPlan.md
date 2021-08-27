@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opportunity Management Proposal Wireframe Testing
+tltitle: Opportunity Management Proposal Wireframe Testing
 type: lab
 phase: Alpha
 initials: MK

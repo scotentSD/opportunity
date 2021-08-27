@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opportunity Management Activity Plan - Customer Research
+tltitle: Opportunity Management Activity Plan - Customer Research
 type: lab
 phase: Alpha
 initials: KD

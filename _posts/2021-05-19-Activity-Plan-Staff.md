@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opportunity Management Activity Plan - Staff Testing
+tltitle: Opportunity Management Activity Plan - Staff Testing
 type: lab
 phase: Alpha
 initials: KD

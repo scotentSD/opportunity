@@ -1,9 +1,9 @@
 ---
-title: Research timeline
+title: BETA timeline
 ---
 
 <section id="timeline">
-  <h1>Research timeline</h1>
+  <h1>BETA timeline</h1>
   {% include key.html %}
 
   <ul class="timeline_ul">
@@ -17,9 +17,10 @@ title: Research timeline
             </a>
           </div>
           <div class="timeline_body">
-              <h2>{{ post.tltitle  | default: post.title }}</h2>
-          {{ post.excerpt }}
+            <h2>{{ post.tltitle}}</h2>
+            {{ post.excerpt }}
           </div>
+          <!-- <span class="initials">{{ post.initials }}</span> -->
        </li>
     {% endfor %}
   </ul>

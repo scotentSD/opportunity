@@ -14,7 +14,7 @@
 
 ## Files
 - [High-level user needs](/opportunity/files/Opportunity_management _OM_user_needs.pdf)
-- [Service blueprint - digital v0.4](/opportunity/files/Opportunity management - Service blueprint v0.4.pdf)
+- [Service blueprint - digital v0.5](Opportunity management - Service blueprint - digital v0.5.pdf)
 - [Service blueprint - transition v0.2](/opportunity/files/Opportunity management - Service blueprint - transition v0.2.pdf)
 - [Opportunity management tube map v2](/opportunity/files/Opportunity management - Opportunity management tube map V.2.pdf) 
 - [Opportunity hub tube map v0.4](/opportunity/files/Opportunity management - Opportunity_hub_tube_map_v0.4.pdf)

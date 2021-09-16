@@ -17,6 +17,6 @@
 - [Service blueprint - digital v0.5](/opportunity/files/Opportunity management - Service blueprint - digital v0.5.pdf)
 - [Service blueprint - transition v0.2](/opportunity/files/Opportunity management - Service blueprint - transition v0.2.pdf)
 - [Opportunity management tube map v2](/opportunity/files/Opportunity management - Opportunity management tube map V.2.pdf) 
-- [Opportunity hub tube map v0.4](/opportunity/files/Opportunity management - Opportunity_hub_tube_map_v0.4.pdf)
+- [Opportunity hub tube map v0.4](/opportunity/files/Opportunity management - Opportunity Hub - high-level.pdf)
 
 <div>Last updated: {{site.time | date_to_string}}</div>

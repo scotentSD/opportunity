@@ -13,10 +13,10 @@
 - [EOI 1 Findings](https://scotentsd.github.io/opportunity/files/EOI_InitialTesting_V1_Nov30_2020.pdf)
 
 ## Files
-- [High-level user needs](/opportunity/files/Opportunity_management _OM_user_needs.pdf)
-- [Service blueprint - digital v0.5](/opportunity/files/Opportunity management - Service blueprint - digital v0.5.pdf)
-- [Service blueprint - transition v0.2](/opportunity/files/Opportunity management - Service blueprint - transition v0.2.pdf)
-- [Opportunity management tube map v2](/opportunity/files/Opportunity management - Opportunity management tube map V.2.pdf) 
-- [Opportunity hub tube map high-level](/opportunity/files/Opportunity management - Opportunity Hub - high-level.pdf)
+- [High-level user needs](https://scotentsd.github.io/opportunity/files/Opportunity_management _OM_user_needs.pdf)
+- [Service blueprint - digital v0.5](https://scotentsd.github.io/opportunity/files/Opportunity management - Service blueprint - digital v0.5.pdf)
+- [Service blueprint - transition v0.2](https://scotentsd.github.io/opportunity/files/Opportunity management - Service blueprint - transition v0.2.pdf)
+- [Opportunity management tube map v2](https://scotentsd.github.io/opportunity/files/Opportunity management - Opportunity management tube map V.2.pdf) 
+- [Opportunity hub tube map high-level](https://scotentsd.github.io/opportunity/files/Opportunity management - Opportunity Hub - high-level.pdf)
 
 <div>Last updated: {{site.time | date_to_string}}</div>

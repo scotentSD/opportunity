@@ -4,7 +4,7 @@
 - [Timeline of Research - Summary](timeline_summary/)
 
 ## User research 2021
-- [Proposition & Activity planning Jan 21 2021](https://scotentsd.github.io/opportunity/files/2021-01-21_OM_Proposition_and_ActivityPlan.pdf)
+- See [Timeline of Research - Summary](timeline_summary/) for more details of 2021 testing
 - [EOI 4 & 5 Findings](https://scotentsd.github.io/opportunity/files/EOI_InitialTesting_V4_and_V5_2020-21.pdf)
 
 ## User Research 2020

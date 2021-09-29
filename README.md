@@ -5,7 +5,7 @@
 
 ## User research 2021
 - [Proposition & Activity planning Jan 21 2021](https://scotentsd.github.io/opportunity/files/2021-01-21 OM Proposition_and_ActivityPlan.pdf)
-- [EOI 4 & 5 Findings](https://scotentsd.github.io/opportunity/files/EOI_InitialTesting_V4_and_V5_2020-21.pdf
+- [EOI 4 & 5 Findings](https://scotentsd.github.io/opportunity/files/EOI_InitialTesting_V4_and_V5_2020-21.pdf)
 
 ## User Research 2020
 - [EOI 3 Findings](https://scotentsd.github.io/opportunity/files/EOI_InitialTesting_V3_Dec17_2020.pdf)

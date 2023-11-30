@@ -1,6 +1,22 @@
-# Opportunity Management has moved
+# Opportunity Management
 
-## [Read about Opportunity Management on our Notion Site](https://scotent.notion.site/Opportunity-Management-80b6dddc4edc4e7f905f06e62caa83e3)
+- [Timeline of Research](timeline/)
+- [Timeline of Research - Summary](timeline_summary/)
 
+## User research 2021
+- See [Timeline of Research - Summary](timeline_summary/) for more details of 2021 testing
+- [EOI 4 & 5 Findings](https://scotentsd.github.io/opportunity/files/EOI_InitialTesting_V4_and_V5_2020-21.pdf)
+
+## User Research 2020
+- [EOI 3 Findings](https://scotentsd.github.io/opportunity/files/EOI_InitialTesting_V3_Dec17_2020.pdf)
+- [EOI 2 Findings](https://scotentsd.github.io/opportunity/files/EOI_InitialTesting_V2_Dec08_2020.pdf)
+- [EOI 1 Findings](https://scotentsd.github.io/opportunity/files/EOI_InitialTesting_V1_Nov30_2020.pdf)
+
+## Files
+- [High-level user needs](https://scotentsd.github.io/opportunity/files/Opportunity_management _OM_user_needs.pdf)
+- [Service blueprint - digital v0.5](https://scotentsd.github.io/opportunity/files/Opportunity management - Service blueprint - digital v0.5.pdf)
+- [Service blueprint - transition v0.2](https://scotentsd.github.io/opportunity/files/Opportunity management - Service blueprint - transition v0.2.pdf)
+- [Opportunity management tube map v2](https://scotentsd.github.io/opportunity/files/Opportunity management - Opportunity management tube map V.2.pdf) 
+- [Opportunity hub tube map high-level](https://scotentsd.github.io/opportunity/files/Opportunity management - Opportunity Hub - high-level.pdf)
 
 <div>Last updated: {{site.time | date_to_string}}</div>
